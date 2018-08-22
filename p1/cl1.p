@@ -1,2 +1,3 @@
 Use
 all
+@main[]
